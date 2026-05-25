@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+outputs/
+data/logs/
+data/heuristic_traces.jsonl
+*.log
+*.aux
+*.toc
+*.out
+*.synctex.gz
